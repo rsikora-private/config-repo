@@ -1,0 +1,4 @@
+info.description: jhispter-microservice web config
+---
+spring:
+  profiles: dev
